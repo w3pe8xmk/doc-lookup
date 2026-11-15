@@ -1,0 +1,17 @@
+{
+  "name": "doc-lookup",
+  "owner": {
+    "name": "w3pe8xmk"
+  },
+  "metadata": {
+    "description": "doc-lookup: a documentation cache skill for Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "doc-lookup",
+      "description": "Search a local cache of external-doc summaries before the web; research and save on a miss.",
+      "source": "./"
+    }
+  ]
+}

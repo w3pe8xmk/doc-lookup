@@ -1,0 +1,19 @@
+{
+  "name": "doc-lookup",
+  "version": "0.1.0",
+  "description": "Cache external technical docs as small summaries and read them back instead of hitting the web every time. Stale-aware (per-domain TTL), primary-source first.",
+  "author": {
+    "name": "w3pe8xmk",
+    "url": "https://github.com/w3pe8xmk"
+  },
+  "homepage": "https://github.com/w3pe8xmk/doc-lookup",
+  "repository": "https://github.com/w3pe8xmk/doc-lookup",
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "cache",
+    "research",
+    "claude-code",
+    "skill"
+  ]
+}
